@@ -1,2 +1,4 @@
-# sales_analysis
-Business report built with SQL, Python &amp; Streamlit for actionable sales insights.
+# Company Sales Dashboard
+
+A data-driven business report built with SQL queries, Python visualizations, and Streamlit.  
+It includes structured insights across product, customer, time, and region dimensions.

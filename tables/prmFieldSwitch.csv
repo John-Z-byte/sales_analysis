@@ -1,0 +1,5 @@
+Parameter,Parameter Fields,Parameter Order
+"Monthly","'dimDate'[MonthShortName]",0
+"Weekly","'dimDate'[Week & Year]",1
+"Sales","'Metrics'[Total Sales]",2
+"Quantity","'Metrics'[Total Quantity]",3

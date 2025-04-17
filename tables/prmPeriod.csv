@@ -1,0 +1,3 @@
+prmPeriod,prmPeriod Fields,prmPeriod Order
+"Month","'dimDate'[MonthShortName]",0
+"Week","'dimDate'[WeekYearNr]",1
